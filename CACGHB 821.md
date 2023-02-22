@@ -1,3 +1,11 @@
+---
+marp: true
+title: "CAC Gospel Hymn Book - CACGHB 626"
+footer: "CAC Gospel Hymn Book - CACGHB 626"
+theme: "821"
+
+---
+
 <!-- slide -->
 # CACGHB 821
 
@@ -16,6 +24,8 @@
 	And while others Thou art calling,
 	Do not pass me by.
 
+---
+
 <!-- slide -->
 2. May Thy rich grace impart
 	Strength to my fainting heart,
@@ -29,6 +39,8 @@
 	And while others Thou art calling,
 	Do not pass me by.
 
+---
+
 <!-- slide -->
 3. While life's dark maze I tread,
 	And griefs around me spread,
@@ -41,6 +53,8 @@
     > Saviour! Saviour! Hear my humble cry.
 	And while others Thou art calling,
 	Do not pass me by.
+
+---
 
 <!-- slide -->
 4. When ends life's transient dream,

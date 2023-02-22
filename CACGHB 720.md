@@ -3,6 +3,12 @@ marp: true
 title: "CAC Gospel Hymn Book - CACGHB 195"
 ---
 
+<style>
+    :root {
+        /* font-size: 17px; */
+    }
+</style>
+
 # CAC Gospel Hymn Book - CACGHB 195
 ## Rise, ye children of salvation
 

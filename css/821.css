@@ -1,0 +1,17 @@
+/* @theme 821 */
+
+@import 'gaia';
+
+:root {
+    /* --color-background:black; */
+    font-size: 27px;
+}
+
+.tester {
+/* background: blue; */
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+h2 {
+    font-size: 30px;
+}
