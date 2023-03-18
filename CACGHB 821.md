@@ -1,17 +1,15 @@
 ---
 marp: true
-title: "CAC Gospel Hymn Book - CACGHB 626"
-footer: "CAC Gospel Hymn Book - CACGHB 626"
+title: "CAC Gospel Hymn Book - CACGHB 821"
+footer: "CAC Gospel Hymn Book - CACGHB 821"
 theme: "821"
 
 ---
 
 <!-- slide -->
-# CACGHB 821
-
+# CACGHB 821 - My faith looks up o Thee
 ## Our eyes wait upon the Lord our God. - Ps.123:2
 
-<!-- slide -->
 1. My faith looks up o Thee,
 	Thou lamb of Calvary,
 	Saviour divine.
@@ -20,13 +18,8 @@ theme: "821"
 	O let me from this day
 	Be wholly Thine.
 
-    > Saviour! Saviour! Hear my humble cry.
-	And while others Thou art calling,
-	Do not pass me by.
-
 ---
 
-<!-- slide -->
 2. May Thy rich grace impart
 	Strength to my fainting heart,
 	My zeal inspire:
@@ -35,29 +28,19 @@ theme: "821"
 	Pure, warm, and changeless be,
 	A living fire.
 
-    > Saviour! Saviour! Hear my humble cry.
-	And while others Thou art calling,
-	Do not pass me by.
 
----
 
-<!-- slide -->
 3. While life's dark maze I tread,
 	And griefs around me spread,
 	Be Thou my guide;
 	Bid darkness turn to day,
 	Wipe sorrow's tears away,
 	Nor let me ever stray
-	From Thee aside.
-
-    > Saviour! Saviour! Hear my humble cry.
-	And while others Thou art calling,
-	Do not pass me by.
+	From Thee aside
 
 ---
 
-<!-- slide -->
-4. When ends life's transient dream,
+4. When ends life's transient dream.
 	When death's cold, sullen stream
 	Shall o'er me roll,
 	Blest saviour, then in love,
@@ -65,8 +48,6 @@ theme: "821"
 	O bear me safe above,
 	A ransom'd soul.
 
-    > Saviour! Saviour! Hear my humble cry.
-	And while others Thou art calling,
-	Do not pass me by.
-
 Amen.
+
+
