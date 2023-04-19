@@ -1,15 +1,16 @@
 ---
 marp: true
-title: "CAC Gospel Hymn Book - CACGHB 195"
+title: "CAC Gospel Hymn Book - CACGHB 720"
+theme: "821"
 ---
 
 <style>
     :root {
-        /* font-size: 17px; */
+        font-size: 1.6em;
     }
 </style>
 
-# CAC Gospel Hymn Book - CACGHB 195
+# CAC Gospel Hymn Book - CACGHB 720
 ## Rise, ye children of salvation
 
 1. Rise, ye children of salvation,  
@@ -18,6 +19,10 @@ title: "CAC Gospel Hymn Book - CACGHB 195"
     Ere the foe on Zion tread.  
     
     *Chorus:*  
+    Pour it forth a mighty anthem,
+	Like the thunders of the sea
+	Through the blood of Christ our ransom,
+	More than conquerors are we
     More than conquerors are we  
     More than conquerors are we  
     Through the blood of Christ our ransom,  
@@ -32,6 +37,10 @@ title: "CAC Gospel Hymn Book - CACGHB 195"
     Conquerors through Jesus' blood.  
     
     *Chorus:*  
+    Pour it forth a mighty anthem,
+	Like the thunders of the sea
+	Through the blood of Christ our ransom,
+	More than conquerors are we
     More than conquerors are we  
     More than conquerors are we  
     Through the blood of Christ our ransom,  
@@ -46,6 +55,10 @@ title: "CAC Gospel Hymn Book - CACGHB 195"
     Floweth forth a glory flood.  
     
     *Chorus:*  
+    Pour it forth a mighty anthem,
+	Like the thunders of the sea
+	Through the blood of Christ our ransom,
+	More than conquerors are we
     More than conquerors are we  
     More than conquerors are we  
     Through the blood of Christ our ransom,  
@@ -60,6 +73,10 @@ title: "CAC Gospel Hymn Book - CACGHB 195"
     Each receiving his reward.  
     
     *Chorus:*  
+    Pour it forth a mighty anthem,
+	Like the thunders of the sea
+	Through the blood of Christ our ransom,
+	More than conquerors are we
     More than conquerors are we  
     More than conquerors are we  
     Through the blood of Christ our ransom,  
@@ -67,3 +84,6 @@ title: "CAC Gospel Hymn Book - CACGHB 195"
 
 
 Amen.
+
+
+
