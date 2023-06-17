@@ -6,6 +6,24 @@ theme: "821"
 
 ---
 
+<style>
+    :root {
+        font-size: 1.7em;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+	section ol {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1.6em;
+	}
+</style>
+
 <!-- slide -->
 # CACGHB 821 - My faith looks up o Thee
 ## Our eyes wait upon the Lord our God. - Ps.123:2
@@ -18,7 +36,7 @@ theme: "821"
 	O let me from this day
 	Be wholly Thine.
 
----
+
 
 2. May Thy rich grace impart
 	Strength to my fainting heart,
@@ -28,7 +46,7 @@ theme: "821"
 	Pure, warm, and changeless be,
 	A living fire.
 
-
+---
 
 3. While life's dark maze I tread,
 	And griefs around me spread,
@@ -38,7 +56,6 @@ theme: "821"
 	Nor let me ever stray
 	From Thee aside
 
----
 
 4. When ends life's transient dream.
 	When death's cold, sullen stream

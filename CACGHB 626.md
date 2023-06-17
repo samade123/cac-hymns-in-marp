@@ -7,11 +7,16 @@ theme: "test"
 ---
 <style>
     :root {
-        font-size: 30px;
+        font-size: 1.79em;
 		/* line-height: 1.5em; */
     }
 	h2 {
     font-size: 30px;
+	}
+	section ol {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1.8em;
 	}
 </style>
 # CAC Gospel Hymn Book - CACGHB 626
@@ -19,7 +24,7 @@ theme: "test"
 ## HYD Y NOS 
 ## 8.4.8.4.8.8.8.4. It is well with thee. It is well. - II Kings 4:26
 
----
+
 
 1. Through the love of God our Saviour,
 	All will be well;
@@ -30,7 +35,6 @@ theme: "test"
 	Strong the hand strech'd forth to shield us,
 	All must be well.
 
----
 
 2. Thou we pass through tribulation,
 	All will be well;
