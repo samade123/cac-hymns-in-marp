@@ -48,7 +48,7 @@ Is just the same today.
 ---
 
 
-1. The God who rescued Daniel from the lion's den  
+2. The God who rescued Daniel from the lion's den  
    And from the fiery furnace sav'd the three young men,  
    Who speaks, and constellations will His voice obey  
    Is the God to whom I pray.
@@ -63,7 +63,7 @@ Is just the same today.
 ---
 
 
-1. The God who stills the tempest with a word divine,  
+3. The God who stills the tempest with a word divine,  
    And on the clouds of sorrow, makes His rainbows shine,  
    Who from the tomb of Jesus rolled the stone away  
    Is the God to whom I pray.
@@ -78,7 +78,7 @@ Is just the same today.
 ---
 
 
-1. The God who clothes the lily in its robe of snow  
+4. The God who clothes the lily in its robe of snow  
    Who in the barren desert makes His rivers flow,  
    The God who lifts the sinner from the miry clay  
    Is the God to whom I pray.
